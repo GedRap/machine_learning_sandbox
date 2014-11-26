@@ -18,6 +18,8 @@ calculate the score.
 
 Scores for predictors tested (mean and score for every cross test).
 
+![Elastic net, alpha=1](https://raw.githubusercontent.com/GedRap/machine_learning_sandbox/master/regression/boston/boston_elastic_net_1.png "Elastic net, alpha=1")
+
 ```
 /usr/bin/python2.7 boston_real_estate_pricing.py
 
@@ -79,7 +81,7 @@ Used Boston data set included with scikit-learn which includes 506 13-dimensiona
 Boston House Prices dataset
 
 Notes
-------
+
 Data Set Characteristics:
 
 :Number of Instances: 506
