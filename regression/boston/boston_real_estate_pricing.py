@@ -1,3 +1,5 @@
+# Test several different models with hardcoded parameter values
+
 from sklearn.datasets import load_boston
 from sklearn.linear_model import LinearRegression
 from sklearn.linear_model import Lasso
