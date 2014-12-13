@@ -24,8 +24,6 @@ goal = data[list(data.columns)[127]]
 
 features = features.dropna(axis=1)
 
-
-
 alpha_values = []
 for a in range(1, 1001):
     alpha_values.append(a / 10)
